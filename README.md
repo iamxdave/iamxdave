@@ -18,7 +18,10 @@
     <img align="left" alt="Dave | Gmail" width="22px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" />
   </a>
 </p>
-<br>
+
+<br/>
+<br/>
+
 ### 🛠  Technologies and tools
 <p>
 </p>
