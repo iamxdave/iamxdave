@@ -1,4 +1,4 @@
-# Ohh Hello there 👋, I'm [xDejw](https://github.com/xDejw)
+## Ohh Hello there 👋, I'm [xDejw](https://github.com/xDejw)
 <p align="center">
   <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" height="200"/>
   <img src="https://user-images.githubusercontent.com/74014874/177051276-a00e55c8-aa89-457d-ab0e-efaa58239d36.gif" alt="gif salute lego" height="200"/>
@@ -8,7 +8,7 @@
   My name is David, I am 21 and currently studying for Master degree 🎓 at PJATK in Warsaw. Want to be full-time employee 🧑‍💼.
 </p>
 
-## 👀 You may also find me on
+### 👀 You may also find me on
 <p>
   <a href="https://steamcommunity.com/profiles/76561198074374282/">
     <img align="left" alt="Dave | Steam" width="22px" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png" />
@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-## 🛠  Technologies and tools
+### 🛠  Technologies and tools
 <p>
 </p>
 
