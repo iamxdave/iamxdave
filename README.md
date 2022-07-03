@@ -39,8 +39,17 @@ Also you may call me Dave 🔥.
 
 Me and the boys after passing summer session 🤣.
 
-<div style="margin-right: 30px;">
-  <img align="left" src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance" height="200"/>
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDejw&layout=compact&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+  <tr>
+    <td valign="top">
+      <img align="left" src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance" height="200"/>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDejw&layout=compact&theme=nightowl&langs_count=10" />
+      </a>
+    </td>
+  </tr>
+</table>
