@@ -45,7 +45,7 @@ Also you may call me Dave 🔥.
 
 _Maybe something to make you feel better..._
 
-### Me and the boys after passing summer session 🤣.
+Me and the boys after passing summer session 🤣.
 
 <img src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance" height="300"/>
 
@@ -53,4 +53,4 @@ _Or maybe something else you may do?_
 
 - 💬 Feel free to ask! I am ready to answer anything, of course what can be googled 😜.
 - 🤝 Do you want to collaborate? Sure! 👍
-- ❤️ Offer work? Send them here [![Gmail Badge](https://img.shields.io/badge/dawidwrobelx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawidwrobelx@gmail.com)](mailto:dawidwrobelx@gmail.com)
+- ❤️ Offer work? Send them here  [![Gmail Badge](https://img.shields.io/badge/dawidwrobelx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawidwrobelx@gmail.com)](mailto:dawidwrobelx@gmail.com)
