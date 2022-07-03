@@ -1,4 +1,4 @@
-## Ohh Hello there 👋, I'm [xDejw](https://github.com/xDejw)
+## 👋 Ohh Hello there, I'm [xDejw](https://github.com/xDejw)
 <p align="center">
   <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" height="300"/>
 </p>
@@ -71,5 +71,5 @@ _Or maybe something else you may do?_
 
 <br/>
 
-## See ya! 👋
+## 👋 See ya! 
 <img src="https://c.tenor.com/eM3kX8ev524AAAAC/star-wars-han-solo.gif" alt="han solo see ya" height="300"/>
