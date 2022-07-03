@@ -1,6 +1,6 @@
 ### Ohh Hello there 👋, I'm [xDejw](https://github.com/xDejw)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74014874/177049862-6ea3d534-eac2-4e8c-bde1-ccdae919415d.gif" alt="gif hello there" width="1000"/>
+  <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" width="600"/>
 </p>
 <p>
   My name is David, I am 21 and currently studying for Master degree 🎓 at PJATK in Warsaw. Want to be full-time employee 🧑‍💼.
