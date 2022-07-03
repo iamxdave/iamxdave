@@ -1,7 +1,6 @@
 ## Ohh Hello there 👋, I'm [xDejw](https://github.com/xDejw)
 <p align="center">
-  <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" height="200"/>
-  <img src="https://user-images.githubusercontent.com/74014874/177051276-a00e55c8-aa89-457d-ab0e-efaa58239d36.gif" alt="gif salute lego" height="200"/>
+  <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" height="300"/>
 </p>
 
 <br/>
@@ -59,7 +58,7 @@ Also you may call me Dave 🔥.
 
 _Maybe something to make you feel better..._
 
-##### Me and the boys after passing summer session 🤣.
+#### Me and the boys after passing summer session 🤣.
 
 <img src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance" height="300"/>
 
@@ -69,3 +68,6 @@ _Or maybe something else you may do?_
 - 🤝 Do you want to collaborate? _Sure! 👍_
 - ❤️ Offer work? Send them here:
 [![Gmail Badge](https://img.shields.io/badge/dawidwrobelx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawidwrobelx@gmail.com)](mailto:dawidwrobelx@gmail.com)
+
+## See ya! 👋
+<img src="https://c.tenor.com/eM3kX8ev524AAAAC/star-wars-han-solo.gif" alt="gif salute lego" height="200"/>
