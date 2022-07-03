@@ -41,7 +41,7 @@ Also you may call me Dave 🔥.
 ![JAVA](https://img.shields.io/badge/JAVA-F73026?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL-SERVER](https://img.shields.io/badge/SQL_SERVER-0078D4?style=for-the-badge&logo=microsoft-sql-server)
+![SQL-SERVER](https://img.shields.io/badge/SQL_SERVER-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-1A1D21?style=for-the-badge&logo=github&logoColor=white)
 
