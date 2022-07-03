@@ -1,7 +1,7 @@
 ## Ohh Hello there 👋, I'm [xDejw](https://github.com/xDejw)
 <p>
-  <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" height="230"/>
-  <img src="https://user-images.githubusercontent.com/74014874/177051276-a00e55c8-aa89-457d-ab0e-efaa58239d36.gif" alt="gif salute lego" height="230"/>
+  <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" height="240"/>
+  <img src="https://user-images.githubusercontent.com/74014874/177051276-a00e55c8-aa89-457d-ab0e-efaa58239d36.gif" alt="gif salute lego" height="240"/>
 </p>
 
 <p>
