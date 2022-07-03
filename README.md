@@ -37,6 +37,7 @@
 
 Also you may call me Dave 🔥.
 <p>
+  Me and the boys after summer session
   <img align="right" src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="gif clones" width="400"/>
 </p>
 
