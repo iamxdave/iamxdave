@@ -69,5 +69,7 @@ _Or maybe something else you may do?_
 - ❤️ Offer work? Send them here:
 [![Gmail Badge](https://img.shields.io/badge/dawidwrobelx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawidwrobelx@gmail.com)](mailto:dawidwrobelx@gmail.com)
 
+<br/>
+
 ## See ya! 👋
-<img src="https://c.tenor.com/eM3kX8ev524AAAAC/star-wars-han-solo.gif" alt="gif salute lego" height="200"/>
+<img src="https://c.tenor.com/eM3kX8ev524AAAAC/star-wars-han-solo.gif" alt="han solo see ya" height="300"/>
