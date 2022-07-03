@@ -29,6 +29,7 @@
 
 - 🔭 I’m currently working on my ... _a little free time will not hurt anyone 🩹😅._
 - 🌱 I’m currently learning _JavaScript and React 💪_.
+- 💼 I'c currently _unemployed 🤷_.
 - 🎿 Hobbies other than coding : _Watching cool movies 🎬, listening to music 🎵 and playing games (board games included 😎🎲)._
 - 📮 How to reach me: _dawidwrobelx@gmail.com 🤙_
 
