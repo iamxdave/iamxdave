@@ -1,8 +1,9 @@
 ## Ohh Hello there 👋, I'm [xDejw](https://github.com/xDejw)
 <p>
-  <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" width="500"/>
-  <img src="https://user-images.githubusercontent.com/74014874/177051258-56bd2fbc-03af-4a41-afd4-e8ca4bead0bc.png" alt="gif salute lego" width="500"/>
+  <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74014874/177051276-a00e55c8-aa89-457d-ab0e-efaa58239d36.gif" alt="gif salute lego" width="400"/>
 </p>
+
 <p>
   My name is David, I am 21 and currently studying for Master degree 🎓 at PJATK in Warsaw. Want to be full-time employee 🧑‍💼.
 </p>
