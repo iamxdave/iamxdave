@@ -4,6 +4,8 @@
   <img src="https://user-images.githubusercontent.com/74014874/177051276-a00e55c8-aa89-457d-ab0e-efaa58239d36.gif" alt="gif salute lego" height="200"/>
 </p>
 
+<br/>
+
 <p>
   My name is David, I am 21 and currently studying for Master degree 🎓 at PJATK in Warsaw. Want to be full-time employee 🧑‍💼.
 </p>
