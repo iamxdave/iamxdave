@@ -37,7 +37,7 @@
 
 Also you may call me Dave 🔥.
 
-<p align="center">
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDejw&layout=compact&theme=nightowl&langs_count=10" height="200"/>
 </a>
