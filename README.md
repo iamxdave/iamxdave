@@ -32,11 +32,11 @@
 
 - 🔭 I’m currently working on my ... a little free time will not hurt anyone 🩹😅.
 - 🌱 I’m currently learning JavaScript and React 💪.
-- 🎿 Hobbies other than coding : Watching cool movies 🎬, listening to music 🎵 and playing games (including board games 😎🎲).
+- 🎿 Hobbies other than coding : Watching cool movies 🎬, listening to music 🎵 and playing games (board games included 😎🎲).
 - 📮 How to reach me: dawidwrobelx@gmail.com 🤙
 
 Also you may call me Dave 🔥.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacer559&layout=compact&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 Me and the boys after passing summer session 🤣.
-<img align="right" src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance"/>
+<img align="right" src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance" width="400"/>
