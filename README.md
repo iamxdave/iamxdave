@@ -9,6 +9,7 @@
 </p>
 
 ### 👀 You may also find me on
+<hr>
 <p>
   <a href="https://steamcommunity.com/profiles/76561198074374282/">
     <img align="left" alt="Dave | Steam" width="22px" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png" />
@@ -25,11 +26,12 @@
 <br/>
 
 ### 🛠  Technologies and tools
+<hr>
 <p>
 </p>
 
 ### ✨ Quick Facts
-
+<hr>
 - 🔭 I’m currently working on my ... a little free time will not hurt anyone 🩹😅.
 - 🌱 I’m currently learning JavaScript and React 💪.
 - 🎿 Hobbies other than coding : Watching cool movies 🎬, listening to music 🎵 and playing games (board games included 😎🎲).
@@ -40,7 +42,7 @@ Also you may call me Dave 🔥.
 <br/>
 
 ### Me and the boys after passing summer session 🤣.
-
+<hr>
 <img src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance" height="300"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDejw&layout=compact&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
