@@ -36,10 +36,8 @@
 - 📮 How to reach me: dawidwrobelx@gmail.com 🤙
 
 Also you may call me Dave 🔥.
-<p>
-  ![]("https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif")*Me and the boys after summer session*
-</p>
-<figure>
+
+<figure align="right">
   <img src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance"/>
   <figcaption>Me and the boys after passing summer session.</figcaption>
 </figure>
