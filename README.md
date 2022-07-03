@@ -25,10 +25,10 @@
 
 ## ✨ Quick Facts
 
-- 🔭 I’m currently working on my ... a little free time will not hurt anyone 🩹😅.
-- 🌱 I’m currently learning JavaScript and React 💪.
-- 🎿 Hobbies other than coding : Watching cool movies 🎬, listening to music 🎵 and playing games (board games included 😎🎲).
-- 📮 How to reach me: dawidwrobelx@gmail.com 🤙
+- 🔭 I’m currently working on my ... _a little free time will not hurt anyone 🩹😅._
+- 🌱 I’m currently learning _JavaScript and React 💪_.
+- 🎿 Hobbies other than coding : _Watching cool movies 🎬, listening to music 🎵 and playing games (board games included 😎🎲)._
+- 📮 How to reach me: _dawidwrobelx@gmail.com 🤙_
 
 Also you may call me Dave 🔥.
 
@@ -51,6 +51,6 @@ Me and the boys after passing summer session 🤣.
 
 _Or maybe something else you may do?_
 
-- 💬 Feel free to ask! I am ready to answer anything, of course what can be googled 😜.
-- 🤝 Do you want to collaborate? Sure! 👍
+- 💬 Feel free to ask! _I am ready to answer anything, of course after googling it 😜._
+- 🤝 Do you want to collaborate? _Sure! 👍_
 - ❤️ Offer work? Send them here  [![Gmail Badge](https://img.shields.io/badge/dawidwrobelx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawidwrobelx@gmail.com)](mailto:dawidwrobelx@gmail.com)
