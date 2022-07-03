@@ -34,14 +34,14 @@ Also you may call me Dave 🔥.
 
 <br/>
 
-## 🛠  Technologies and tools
+## 🛠 Technologies and tools
 <p>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDejw&layout=compact&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Haven't left yet?
+## 🤔 Haven't left yet?
 
 _Maybe something to make you feel better..._
 
@@ -49,7 +49,7 @@ _Maybe something to make you feel better..._
 
 <img src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance" height="300"/>
 
-_Or maybe something else you may do 🤔?_
+_Or maybe something else you may do?_
 
 - 💬 Feel free to ask! I am ready to answer anything, of course what can be googled 😜.
 - 🤝 Do you want to collaborate? Sure! 👍
