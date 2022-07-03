@@ -13,6 +13,8 @@
 - 🌱 I’m currently learning JavaScript and React 💪.
 - 🎿 Hobbies other than coding : Watching cool movies 👀, listening to music 🎵 mostly rap or pop and playing games - including board games 😎🎲.
 - 📮 How to reach me: dawidwrobelx@gmail.com 🤙
-
+<p>
+  <img align="right" src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="gif clones" width="400"/>
+</p>
 Also you may call me Dave 🔥.
 
