@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-  My name is David, I am 21 and currently studying for Master degree 🎓 at PJATK in Warsaw. Want to be full-time employee 🧑‍💼.
+  My name is David, I am 21 and currently studying for Bachelor degree 🎓 at PJATK in Warsaw. Want to be full-time employee 🧑‍💼.
 </p>
 
 ## 👀 You may also find me on
