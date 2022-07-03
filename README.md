@@ -39,4 +39,4 @@ Also you may call me Dave 🔥.
 
 Me and the boys after passing summer session 🤣.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacer559&layout=compact&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance"/>
+<img align="right" src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance"/>
