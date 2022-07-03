@@ -5,6 +5,7 @@ My name is David, I am 21 and currently studying for Master degree 🎓 at PJATK
 </p>
 
 <p>
+  <br>
   ### ✨ Quick Facts
 
   - 🔭 I’m currently working on my ... a little free time will not hurt anyone 🩹😅.
