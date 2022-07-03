@@ -66,7 +66,7 @@ _Or maybe something else you may do?_
 
 - 💬 Feel free to ask! _I am ready to answer anything, of course after googling it 😜._
 - 🤝 Do you want to collaborate? _Sure! 👍_
-- ❤️ Offer work? _Send them here:_  [![Gmail Badge](https://img.shields.io/badge/dawidwrobelx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawidwrobelx@gmail.com)](mailto:dawidwrobelx@gmail.com)
+- ❤️ Offer work? _Send them here:_ [![Gmail Badge](https://img.shields.io/badge/dawidwrobelx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawidwrobelx@gmail.com)](mailto:dawidwrobelx@gmail.com)
 
 <br/>
 
