@@ -39,6 +39,9 @@ Also you may call me Dave 🔥.
 <p>
   ![]("https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif")*Me and the boys after summer session*
 </p>
-
+<figure>
+  <img src="https://c.tenor.com/1a6SagucLd0AAAAd/storm-trooper.gif" alt="troopers dance"/>
+  <figcaption>Me and the boys after passing summer session.</figcaption>
+</figure>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacer559&layout=compact&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
