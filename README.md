@@ -1,4 +1,4 @@
-### Ohh Hello there 👋, I'm [xDejw](https://github.com/xDejw)
+## Ohh Hello there 👋, I'm [xDejw](https://github.com/xDejw)
 <p>
   <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="gif hello there" width="600"/>
 </p>
@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-### 🛠  Technologies and tools
+## 🛠  Technologies and tools
 <p>
 </p>
 
