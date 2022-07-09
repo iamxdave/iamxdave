@@ -53,7 +53,7 @@ Also you may call me Dave 🔥.
 
 ## 💻Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDejw&layout=compact&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamxdave&layout=compact&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤔 Haven't left yet?
 
