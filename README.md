@@ -11,7 +11,7 @@
 
 ## 👀 You may also find me on
 <p>
-  <a href="https://www.linkedin.com/in/dawid-wr%C3%B3bel-451889242/">
+  <a href="https://www.linkedin.com/in/iamxdave/">
     <img align="left" alt="Dave | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" />
   </a>
   <a href="mailto:dawidwrobelx@gmail.com">
