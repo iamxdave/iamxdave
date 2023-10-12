@@ -7,11 +7,11 @@
 
 <p>
   My name is David, I am 22 and currently studying for Bachelor degree 🎓 at PJATK in Warsaw.
-  
-  ### 👨‍💻 Portfolio
-
-  [dawidwrobel.vercel.app](https://dawidwrobel.vercel.app)
 </p>
+
+## 👨‍💻 Portfolio
+
+[dawidwrobel.vercel.app](https://dawidwrobel.vercel.app)
 
 ## 👀 You may also find me on
 <p>
