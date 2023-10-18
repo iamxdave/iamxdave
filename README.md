@@ -90,3 +90,7 @@ _Or maybe something else you may do?_
 
 ## 👋 See ya! 
 <img src="https://c.tenor.com/eM3kX8ev524AAAAC/star-wars-han-solo.gif" alt="han solo see ya" height="300"/>
+
+<br/>
+
+![:iamxdave](https://count.getloli.com/get/@:iamxdave?theme=asoul)
