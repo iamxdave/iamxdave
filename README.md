@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-  My name is David, I am 22 and currently studying for Master degree 🎓 at PJATK in Warsaw.
+  My name is David, I am 23 and currently studying for Master degree 🎓 at PJATK in Warsaw.
 </p>
 
 ## 👨‍💻 Portfolio
