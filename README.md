@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-  My name is David, I am 23 and currently studying for Master degree 🎓 at PJATK in Warsaw.
+  My name is David, I am 24 and currently studying for Master degree 🎓 at PJATK in Warsaw.
 </p>
 
 ## 👨‍💻 Portfolio
@@ -18,18 +18,19 @@
 ## 👀 You may also find me on
 <p>
   <a href="https://www.linkedin.com/in/iamxdave/">
-    <img align="left" alt="Dave | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" />
+    <img align="left" alt="Dave | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
   <a href="mailto:dawidwrobelx@gmail.com">
-    <img align="left" alt="Dave | Gmail" width="22px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" />
+    <img align="left" alt="Dave | Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
   </a>
   <a href="https://steamcommunity.com/profiles/76561198074374282/">
-    <img align="left" alt="Dave | Steam" width="22px" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png" />
+    <img align="left" alt="Dave | Steam" width="22px" src="https://img.icons8.com/color/48/000000/steam.png" />
   </a>
   <a href="https://open.spotify.com/user/21hstacqbxrzyf65kpciup6dy">
-    <img align="left" alt="Dave | Spotify" width="22px" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png?v=637903118310000000" />
+    <img align="left" alt="Dave | Spotify" width="22px" src="https://img.icons8.com/color/48/000000/spotify.png" />
   </a>
 </p>
+
 
 <br/>
 <br/>
