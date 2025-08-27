@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-  My name is David, I am 24 years old and a Master’s degree 🎓 graduate in field of Computer Science.
+  My name is David, I am 24 years old and a Master’s degree graduate 🎓 in field of Computer Science.
 </p>
 
 ## 👨‍💻 Portfolio
